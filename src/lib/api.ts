@@ -1,6 +1,6 @@
 import type { Customer } from './types';
 
-const BASE = 'https://rammel29.pythonanywhere.com';
+const BASE = 'https://ipt-backend-production.up.railway.app';
 export const API_URL = `${BASE}/api/`;
 export const MEDIA_BASE = BASE;
 
